@@ -29,3 +29,22 @@ Steps to Submit Assignment
   ```  
  4. Create a pull request from `{your_name}_{project_name}` branch to `main` branch
  
+ 
+ Pull Request should consists
+ ----
+ 1. Proper description of the project
+ 2. What are the inputs to it
+ 3. What is the expected output
+ 4. Video or Screenshot of the output
+ 5. Explanation of code and logic.[optional](preferred)
+ 
+ 
+ Marks will be allotted for following:
+ ----
+ 1. Documentation
+ 2. File structure
+ 3. Code Simplicity
+ 4. Efficient Logic Building
+ 5. User Interface
+ 6. Usage of learned concepts
+ 
