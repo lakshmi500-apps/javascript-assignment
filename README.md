@@ -36,7 +36,7 @@ Steps to Submit Assignment
  2. What are the inputs to it
  3. What is the expected output
  4. Video or Screenshot of the output
- 5. Explanation of code and logic.[optional](preferred)
+ 5. Explanation of code and logic is preferred.[optional]
  
  
  Marks will be allotted for following:
