@@ -1,9 +1,24 @@
 
 .name{
 
-    height:200px;
+    height:100px;
     
     width:200px;
     
     
+    }
+    .container{
+        width:300px;
+        height: 300px;    
+        display: flex;    
+        justify-content: center;
+        align-items: center;    
+        flex-direction: column;
+        padding: 10px;
+        box-shadow:  0 0 10px 2px rgb(194, 167, 167);
+    }
+    .container p{
+        margin-bottom: 10px;
+        font-weight: 600;
+        color: rgb(101, 128, 129);
     }
