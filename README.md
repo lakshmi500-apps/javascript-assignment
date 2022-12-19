@@ -1,50 +1,12 @@
-# javascript-assignment
+Palindrome Checker
+Return true if the given string is a palindrome. Otherwise, return false.
 
-### Choose any one project
-1. [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
-2. [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
-3. [Caeser Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
-4. [Telephone Number Validation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
-5. [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
-Steps to Submit Assignment
------
-1. Take clone of this repository  
-  ```
-  git clone https://github.com/sriram-500apps/javascript-assignment
-  ```
-2. Create a branch using your name and porject choosen  
-  ```
-  git checkout -b {your_name}_{project_name}
-  ```  
-  like this  
-  ```
-  git checkout -b sriram_palindrom_checker
-  ```
-3. Do all the changes related to project and push the code to branch created.  
-  ```
-  git add -A
-  git commit -m 'commit message'
-  git push
-  ```  
- 4. Create a pull request from `{your_name}_{project_name}` branch to `main` branch
- 
- 
- Pull Request should consists
- ----
- 1. Proper description of the project
- 2. What are the inputs to it
- 3. What is the expected output
- 4. Video or Screenshot of the output
- 5. Explanation of code and logic is preferred.[optional]
- 
- 
- Marks will be allotted for following:
- ----
- 1. Documentation
- 2. File structure
- 3. Code Simplicity
- 4. Efficient Logic Building
- 5. User Interface
- 6. Usage of learned concepts
- 
+Note: You'll need to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for palindromes.
+
+We'll pass strings with varying formats, such as racecar, RaceCar, and race CAR among others.
+
+We'll also pass strings with special symbols, such as 2A3*3a2, 2A3 3a2, and 2_A3*3#A2.
+
+https://drive.500apps.com/61925b6e
